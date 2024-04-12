@@ -5,3 +5,5 @@ This is my first code
 This is the configuration to the VMs size.
 
 changing the VM OS ubuntu.
+
+Adding new features!
